@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+    font-family: 'MuseoModerno', cursive;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+
+p{
+    color: dimgray;
+}
+
+.name-highlight{
+    color: goldenrod;
+}
+
+.half-width{
+    width: 30%;
+    float: left;
+    margin-top: 0%;
+    padding-top:10%;
+    padding-left: 10%;
+}
+
+.half-width img{
+    width: 120%;
+}
+
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+section{
+    height: 500px;
+}
