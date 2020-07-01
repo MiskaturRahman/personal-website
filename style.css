@@ -140,12 +140,12 @@ section{
 }
 
 .contact{
-    text-decoration: none;
+    padding: 20px 50px;
     color: white;
     background-image: linear-gradient(rgb(223, 143, 14), rgb(211, 147, 95));
-    padding: 40px 100px; 
     border-radius: 5px;
-    margin-top: 0%; 
+    display: inline-block;
+    justify-content: center;
 }
 
 .client-says{
